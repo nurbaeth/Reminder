@@ -15,7 +15,7 @@ Simple Reminder is a Python-based tool that allows users to set one-time and rec
    git clone https://github.com/yourusername/simple-reminder.git
    cd simple-reminder
    ```
-2. Install dependencies:
+2. Install dependencies:  
    ```bash
    pip install schedule requests
    ```

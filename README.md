@@ -18,7 +18,7 @@ Simple Reminder is a Python-based tool that allows users to set one-time and rec
 2. Install dependencies:  
    ```bash
    pip install schedule requests
-   ```
+   ``` 
 
 ## Configuration
 1. Open `simple_reminder.py` and replace `YOUR_BOT_TOKEN` with your actual Telegram bot token.

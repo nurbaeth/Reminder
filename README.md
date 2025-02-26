@@ -1,4 +1,4 @@
-# Simple Reminder
+# Simple Reminder 
 
 ## Overview
 Simple Reminder is a Python-based tool that allows users to set one-time and recurring reminders. It sends notifications via Telegram and runs continuously in the background.

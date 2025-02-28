@@ -12,7 +12,7 @@ Simple Reminder is a Python-based tool that allows users to set one-time and rec
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-reminder.git
+   git clone https://github.com/yourusername/simple-reminder.git 
    cd simple-reminder
    ``` 
 2. Install dependencies:    

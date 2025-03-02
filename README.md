@@ -9,7 +9,7 @@ Simple Reminder is a Python-based tool that allows users to set one-time and rec
 - Sends notifications via Telegram
 - Runs in the background and checks reminders every minute
 
-## Installation 
+## Installation  
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/simple-reminder.git 

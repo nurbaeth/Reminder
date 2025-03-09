@@ -17,7 +17,7 @@ Simple Reminder is a Python-based tool that allows users to set one-time and rec
    ```  
 2. Install dependencies:      
    ```bash 
-   pip install schedule requests  
+   pip install schedule requests   
    ```  
 
 ## Configuration

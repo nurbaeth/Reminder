@@ -10,7 +10,7 @@ Simple Reminder is a Python-based tool that allows users to set one-time and rec
 - Runs in the background and checks reminders every minute
 
 ## Installation   
-1. Clone this repository:
+1. Clone this repository: 
    ```bash
    git clone https://github.com/yourusername/simple-reminder.git 
    cd simple-reminder
